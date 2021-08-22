@@ -1,0 +1,1 @@
+Forked from [MatthewChatham/glassdoor-review-scraper](https://github.com/MatthewChatham/glassdoor-review-scraper).
